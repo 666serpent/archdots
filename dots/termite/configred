@@ -1,0 +1,28 @@
+[options]
+font = Source Code Pro Medium 12
+[colors]
+cursor = #ffffff
+cursor_foreground = #ffffff
+
+foreground = #e5383b
+foreground_bold = #ffffff
+background = #161a1d
+
+highlight = #30333d
+
+color0       =        #161a1d
+color1       =        #660708
+color2       =        #a4161a
+color3       =        #ba181b
+color4       =        #e5383b
+color5       =        #b1a7a6
+color6       =        #d3d3d3
+color7       =        #f5f3f4
+color8       =        #161a1d
+color9       =        #660708
+color10      =        #a4161a
+color11      =        #ba181b
+color12      =        #e5383b
+color13      =        #b1a7a6
+color14      =        #d3d3d3
+color15      =        #f5f3f4

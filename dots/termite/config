@@ -1,0 +1,29 @@
+[options]
+font = Cozette 11
+#font = JetBrains Mono 9
+[colors]
+cursor = #585858
+cursor_foreground = #e4e4e4
+
+foreground = #585858
+foreground_bold = #e4e4e4
+background = #e4e4e4
+
+highlight = #585858
+
+color0  =              #e4e4e4
+color1  =              #DFDCB3
+color2  =              #B6B4DD
+color3  =              #B4BDE0
+color4  =              #D6B4D6
+color5  =              #E0B3DB
+color6  =              #AFC4C5
+color7  =              #616168
+color8  =              #9C9CA2
+color9  =              #DFDCB3
+color10 =              #B6B4DD
+color11 =              #B4BDE0
+color12 =              #D6B4D6
+color13 =              #E0B3DB
+color14 =              #AFC4C5
+color15 =              #585858
